@@ -1,2 +1,2 @@
-# appreciate.github.io
+# http://appreciate.github.io
 Things worth appreciating
